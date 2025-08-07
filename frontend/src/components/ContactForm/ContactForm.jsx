@@ -28,7 +28,7 @@ export default function ContactForm() {
         setSubmitting(true)
       try {
         const res = await axios.post(
-          "http://localhost:8000/api/v1/message",
+          "https://portfolio-pritish.onrender.com/api/v1/message",
           values
         );
         if (res.data.success) {
