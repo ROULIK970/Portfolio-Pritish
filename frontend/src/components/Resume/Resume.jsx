@@ -64,7 +64,7 @@ export default function Resume() {
                   </li>
                   <li className="pb-[10px]">
                     Completed NodeJS and ReactJS course at TryCatch, Mumbai from
-                    April - July 2025 under mentorship of Neha and Gupta{" "}
+                    April - July 2025 {" "}
                   </li>
                 </ul>
               </div>
