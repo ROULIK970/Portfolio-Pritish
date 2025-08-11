@@ -20,6 +20,12 @@ export default function Portfolio() {
       to: "https://candid-daffodil-bc8876.netlify.app/",
       thumbnail: "/tenzies.png",
     },
+    {
+      name: "Online-lecture-Scheduling-app",
+      description: "A Website based on the Puneri-Paltan Kabbadi Team.",
+      to: "https://online-lecture-scheduling-module-os.vercel.app",
+      thumbnail: "/online-lecture-schedule.png",
+    },
   ];
   return (
     <section
