@@ -16,17 +16,17 @@ export default function PortfolioSidebar({showNav, setShowNav}) {
   const socials = [
     {
       name: "Twitter",
-      to: "/twitter",
+      to: "https://x.com/BordoloiPritish",
       Icon: <CiTwitter />,
     },
     {
       name: "Github",
-      to: "/github",
+      to: "https://github.com/ROULIK970",
       Icon: <FiGithub />,
     },
     {
       name: "LinkedIn",
-      to: "/linkedin",
+      to: "https://in.linkedin.com/in/pritish-bordoloi-a9819bbb",
       Icon: <CiLinkedin />,
     },
   ];
