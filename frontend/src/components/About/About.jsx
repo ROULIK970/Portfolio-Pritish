@@ -46,10 +46,9 @@ const aboutDetails = [
                 MERN stack Developer | Full Stack Developer | UI/UX Designer
               </h2>
               <p className="py-[1rem] italic mb-[1rem]">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Assumenda, consequatur sapiente! Vero accusamus quisquam ut
-                labore, magnam, inventore deserunt, nesciunt velit sed ratione
-                quae. Repudiandae et quibusdam optio illum? Libero.
+                Junior Frontend Developer with nearly 1 year of experience with
+                a track record of designing and implementing responsive,
+                user-centric ecommerce websites.
               </p>
               <div>
                 <div className="flex flex-col px-[12px]">

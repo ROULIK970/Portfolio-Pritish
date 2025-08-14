@@ -6,11 +6,11 @@ export default function Resume() {
       <div className="mx-auto pb-[60px] px-[12px] ">
         <h2 className="text-[32px] font-[700]  pb-[20px]">Resume</h2>
         <div className="border-b-4 border-b-[#149ddd] w-[50px] mb-[20px]"></div>
-        <p >
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-          aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-          quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-          fugiat sit in iste officiis commodi quidem hic quas.
+        <p>
+          A dedicated and passionate Node.js and React.js developer with a
+          strong foundation in building modern, scalable, and responsive web
+          applications. I specialize in creating seamless user experiences and
+          robust backend systems, from initial concept to deployment.
         </p>
       </div>
 
@@ -64,7 +64,7 @@ export default function Resume() {
                   </li>
                   <li className="pb-[10px]">
                     Completed NodeJS and ReactJS course at TryCatch, Mumbai from
-                    April - July 2025 {" "}
+                    April - July 2025{" "}
                   </li>
                 </ul>
               </div>

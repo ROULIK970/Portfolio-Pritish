@@ -10,19 +10,19 @@ export default function Portfolio() {
     },
     {
       name: "Dashboard",
-      description: "lorem ipsum donero rigorto",
+      description: "An app that helps with keeping store of health related documents and details",
       to: "https://h-files-assignment.vercel.app/",
       thumbnail: "/h-files.png",
     },
     {
       name: "Tenzies",
-      description: "lorem ipsum donero rigorto",
+      description: "A fun game that relies on rolling a dice to win",
       to: "https://candid-daffodil-bc8876.netlify.app/",
       thumbnail: "/tenzies.png",
     },
     {
       name: "Online-lecture-Scheduling-app",
-      description: "A Website based on the Puneri-Paltan Kabbadi Team.",
+      description: "A Website based on scheduling lectures for instructors. Use email-bordoloipritish97@gmail.com and password- twofeather to get admin access. Uses protected routes with middlewares.",
       to: "https://online-lecture-scheduling-module-os.vercel.app",
       thumbnail: "/online-lecture-schedule.png",
     },

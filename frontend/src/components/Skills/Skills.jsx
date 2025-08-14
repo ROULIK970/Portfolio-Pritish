@@ -19,11 +19,7 @@ export default function names() {
       <div className='container'>
         <div className="mx-auto pb-[60px] px-[12px] ">
           <h2 className="text-[32px] font-[700]  pb-[20px]">Skills</h2>
-          <div className="border-b-4 border-b-[#149ddd] w-[50px] mb-[20px]"></div>
-          <p>
-            Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
-            consectetur velit
-          </p>
+          <div className="border-b-4 border-b-[#149ddd] w-[50px] mb-[20px]"></div>         
         </div>
         <div className="px-[12px] mx-auto ">
           <div className="grid  lg:grid-cols-2 grid-cols-1 gap-6">
