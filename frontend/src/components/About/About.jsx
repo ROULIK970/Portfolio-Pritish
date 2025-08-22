@@ -28,7 +28,7 @@ const aboutDetails = [
             <div className="border-b-4 border-b-[#149ddd] w-[50px]"></div>
           </div>
           <p>
-            Hey I am a Junior Frontend Developer with nearly 1 year of
+            Hey I am a full stack MERN Developer with nearly 1 year of
             experience with a track record of designing and implementing
             responsive, user-centric ecommerce websites. Skilled at
             collaborating with cross- functional teams to deliver high-quality
